@@ -1,6 +1,6 @@
 # 🩺 MediTrack
 
-**MediTrack** is a web-based application designed to enhance **medical coherence** by helping users manage and track medical records, appointments, prescriptions, and patient interactions in one unified platform.
+**MediTrack** is a web-based application designed to enhance **medical coherence** by helping users manage and track medical records, prescriptions, and patient interactions in one unified platform.
 
 
 ## 🚀 Tech Stack
